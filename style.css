@@ -1,0 +1,28 @@
+.app {
+  background-color: bisque;
+  width: 400px;
+  text-align: center;
+  
+}
+
+.btn, .btn2 {
+  font-size: 20px;
+  background-color: cadetblue;
+  border-radius: 1cm;
+  color:aliceblue;
+  /* display: flex; */
+  
+
+}
+
+.btn:hover, .btn2:hover {
+  background-color: blueviolet;
+
+}
+
+h1.answer {
+  color: red;
+  flex-direction: row;
+  text-align: center;
+  font-size: 2cm;
+}
